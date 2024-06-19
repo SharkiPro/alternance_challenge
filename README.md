@@ -1,5 +1,7 @@
 # DJOB Test
 
+Access the Typescript version on that branch -> https://github.com/SharkiPro/alternance_challenge/tree/typescript
+
 ## Features
 
 - Display a list of users with details.
